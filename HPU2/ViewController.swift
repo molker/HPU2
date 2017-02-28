@@ -3,7 +3,7 @@
 //  HPU2
 //
 //  Created by Matthew Olker on 2/28/17.
-//  Copyright © 2017 Matthew Olker. All rights reserved.
+//  Copyright © 2017 Matthew Olker.   All rights reserved.
 //
 
 import UIKit
